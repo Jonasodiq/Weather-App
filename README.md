@@ -1,5 +1,7 @@
 # Weather-App
 
+![Weather-App](https://github.com/Jonasodiq/Weather-App/blob/main/images/weather-app.png)
+
 ## Purpose of the app:
 
 **The app is designed to provide the user with current weather information for a selected city. It uses the OpenWeatherMap API to retrieve weather data and displays the results in a user-friendly interface.**
