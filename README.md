@@ -1,21 +1,27 @@
 # Weather-App
 
-## Appens syfte:
+## Purpose of the app:
 
-**Appen är utformad för att ge användaren aktuell väderinformation för en vald stad. Den använder OpenWeatherMap API för att hämta väderdata och visar resultatet i ett användarvänligt gränssnitt.**
+**The app is designed to provide the user with current weather information for a selected city. It uses the OpenWeatherMap API to retrieve weather data and displays the results in a user-friendly interface.**
 
-## Funktionalitet:
+## Functionality:
 
-- **Sökfunktion:** Användaren kan skriva in namnet på en stad i ett textinmatningsfält och trycka på sökknappen eller trycka på "Enter"-tangenten för att starta sökningen.
+**Search function:**
+The user can enter the name of a city in a text input field and press the search button or press the "Enter" key to start the search.
 
-- **Hämta väderdata:** När användaren initierar en sökning hämtar appen väderdata från OpenWeatherMap API baserat på den angivna staden. API-nyckeln används för att autentisera förfrågan.
+**Get weather data:**
+When the user initiates a search, the app retrieves weather data from the OpenWeatherMap API based on the specified city. The API key is used to authenticate the request.
 
-- **Visa väderinformation:** Appen visar väderinformationen i ett gränssnitt som inkluderar en bild som representerar väderförhållandet (till exempel soligt, regnigt eller snöigt), temperaturen, en beskrivning av väderförhållandet, luftfuktighet och vindhastighet.
+**View weather information:**
+The app displays the weather information in an interface that includes an image representing the weather condition (for example, sunny, rainy, or snowy), the temperature, a description of the weather condition, humidity, and wind speed.
 
-- **Felhantering:** Om sökningen inte ger några resultat, till exempel om staden inte hittades, visar appen en felmeddelande och döljer väderinformationen.
+**Error handling:**
+If the search returns no results, for example if the city was not found, the app displays an error message and hides the weather information.
 
-**Användning:** Användaren kan använda appen för att kontrollera vädret i olika städer genom att skriva in stadens namn och sedan se resultatet på skärmen.
+**Use:**
+The user can use the app to check the weather of different cities by entering the city name and then see the result on the screen.
 
-**Teknisk beskrivning:** Appen är implementerad med hjälp av HTML, CSS och JavaScript. Den använder Fetch API för att kommunicera med OpenWeatherMap-tjänsten och DOM-manipulation för att uppdatera gränssnittet med väderinformationen.
+**Technical description:**
+The app is implemented using HTML, CSS and JavaScript. It uses the Fetch API to communicate with the OpenWeatherMap service and DOM manipulation to update the interface with the weather information.
 
 ## [Link to](https://imaginative-crumble-227ff9.netlify.app/)
