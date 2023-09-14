@@ -26,4 +26,4 @@ The user can use the app to check the weather of different cities by entering th
 **Technical description:**
 The app is implemented using HTML, CSS and JavaScript. It uses the Fetch API to communicate with the OpenWeatherMap service and DOM manipulation to update the interface with the weather information.
 
-## [Link to](https://imaginative-crumble-227ff9.netlify.app/)
+## [Link to](https://imaginative-weather-app.netlify.app)
