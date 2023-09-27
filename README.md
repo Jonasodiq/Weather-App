@@ -1,5 +1,9 @@
 # Weather-App
 
+### Develop
+
+sass --watch style.scss style.css
+
 ![Weather-App](https://github.com/Jonasodiq/Weather-App/blob/main/images/weather-app.png)
 
 ## Purpose of the app:
