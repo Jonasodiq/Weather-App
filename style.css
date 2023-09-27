@@ -24,7 +24,7 @@ body {
   border-radius: 18px;
   font-family: "Roboto", sans-serif;
   transition: 0.6s ease-out;
-  margin: 14px;
+  margin: 2rem;
 }
 
 @media screen and (max-width: 400px) {
